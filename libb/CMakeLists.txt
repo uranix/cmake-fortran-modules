@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.0)
 
 add_library(b
+    second.f90
     third.f90
 )
 
